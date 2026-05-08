@@ -1,2 +1,2 @@
 console.log("Hello from Vidu");
-consol.log("Today is Devops Exam");
+console.log("Today is Devops Exam");
