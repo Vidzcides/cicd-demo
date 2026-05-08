@@ -1,1 +1,1 @@
-console.log("Hello from CI/CD");
+console.log("Hello from Vidu");
